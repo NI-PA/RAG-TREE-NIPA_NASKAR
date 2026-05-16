@@ -1,0 +1,16 @@
+# Requirements for Novuz CMaaP - AI Document Q&A System
+# Install with: pip install -r requirements.txt
+
+# Core dependencies
+numpy>=1.24.0
+scikit-learn>=1.2.0
+requests>=2.28.0
+
+# PDF processing
+PyMuPDF>=1.23.0
+
+# Frontend UI
+streamlit>=1.28.0
+
+# For Word document generation (optional)
+python-docx>=0.8.11
